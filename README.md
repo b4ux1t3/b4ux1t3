@@ -7,5 +7,5 @@
 - 💬 Ask me about ... .NET Core, Python, or Rust!
 
 
-[![b4ux1t3's github stats](https://github-readme-stats.vercel.app/api?username=b4ux1t3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![b4ux1t3's github stats](https://github-readme-stats.vercel.app/api?username=b4ux1t3&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
