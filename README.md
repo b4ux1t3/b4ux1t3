@@ -1,7 +1,7 @@
 ### Hi there 
 
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... Figuring out what I'm working on.
 - 🌱 I’m currently learning ... Docker!
 - 👯 I’m looking to collaborate on ... games, utilities and more!
 - 💬 Ask me about ... .NET Core, Python, or Rust!
